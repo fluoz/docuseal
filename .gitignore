@@ -36,3 +36,5 @@ yarn-debug.log*
 /attachments
 /docuseal
 /ee
+
+pg_data
