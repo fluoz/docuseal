@@ -11,7 +11,7 @@ module Submissions
                 end
 
     INFO_CREATOR = "#{Docuseal.product_name} (#{Docuseal::PRODUCT_URL})".freeze
-    SIGN_REASON = 'Signed by %<email>s with DocuSeal.co'
+    SIGN_REASON = 'Signed by %<email>s'
 
     TEXT_LEFT_MARGIN = 1
     TEXT_TOP_MARGIN = 1
