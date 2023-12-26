@@ -9,7 +9,6 @@ gem 'azure-storage-blob', require: false
 gem 'bootsnap', require: false
 gem 'cancancan'
 gem 'devise'
-gem 'shakapacker'
 gem 'devise-two-factor'
 gem 'dotenv', require: false
 gem 'email_typo'

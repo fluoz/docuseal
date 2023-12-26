@@ -18,7 +18,7 @@ module Submissions
                      end
 
     INFO_CREATOR = "#{Docuseal.product_name} (#{Docuseal::PRODUCT_URL})".freeze
-    SIGN_REASON = 'Signed with DocuSeal.co'
+    SIGN_REASON = 'Signed with Sasana E Signature'
     VERIFIED_TEXT = 'Verified'
     UNVERIFIED_TEXT = 'Unverified'
 
